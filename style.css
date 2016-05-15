@@ -1,0 +1,69 @@
+body{
+  background-color: #FFFFEE;
+  color: #800000;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  letter-spacing: 2px;
+  box-sizing: border-box;
+}
+
+#main{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#main>.table{
+  position: relative;
+  max-width: 90%;
+  padding: 1em;
+  width: 350px;
+}
+
+hr, #o1, #idErr{
+  display: none;
+}
+
+#komicaID{
+  padding: .2em .5em;
+  font-size: 2.5em;
+}
+
+hr{
+  width: 100%;
+}
+
+#o1{
+  border-radius: 10px;
+  border: 2px solid #800000;
+  padding: 0.5em 1em;
+  max-width: 100%;
+  text-align: left;
+}
+
+#o2 p{
+  
+}
+
+#o2 p:nth-child(odd){
+  color: #c53333;
+}
+
+.ca{
+  text-align: center;
+}
+
+.table{
+  display: table;
+}
+
+.row{
+  display: table-row;
+}
+
+.cell{
+  display: table-cell;
+}
