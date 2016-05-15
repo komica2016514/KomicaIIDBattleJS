@@ -1,2 +1,2 @@
 # KomicaIIDBattleJS
-WEB版本
+Komica ID Battle WEB版本
