@@ -1,1 +1,2 @@
 # KomicaIIDBattleJS
+WEB版本
